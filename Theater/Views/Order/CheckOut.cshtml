@@ -1,0 +1,53 @@
+﻿@model Order
+<link href="~/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+<link href="~/css/Style.css" rel="stylesheet" type="text/css" />
+
+
+<div class="container">
+    @{
+        Layout = "_Layout";
+    }
+ 
+
+<div class="row container">
+
+
+
+	<h3>Оформление заказа</h3>
+	<form asp-action="CheckOut" method="post" class="form-horisontal">
+        <div class="form-ground">
+            <label asp-for="name"></label>
+            <div class="col-md-5">
+                <input asp-for="name" class="form-control"/>
+                <span asp-validation-for="name" class="text-danger"></span>
+            </div>
+        </div>
+        <div class="form-ground">
+            <label asp-for="surname"></label>
+            <div class="col-md-5">
+                <input asp-for="surname" class="form-control" />
+                <span asp-validation-for="surname" class="text-danger"></span>
+            </div>
+        </div>
+
+        <div class="form-ground">
+            <label asp-for="phone"></label>
+            <div class="col-md-5">
+                <input asp-for="phone" class="form-control" />
+                <span asp-validation-for="phone" class="text-danger"></span>
+            </div>
+        </div>
+
+        <div class="form-ground">
+            <label asp-for="email"></label>
+            <div class="col-md-5">
+                <input asp-for="email" class="form-control" />
+                <span asp-validation-for="email" class="text-danger"></span>
+            </div>
+        </div> 
+
+        <input class="btn btn-success" type="submit" value="Завершить заказ"/>
+	</form>
+    </div>
+</div>
+

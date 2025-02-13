@@ -1,0 +1,29 @@
+﻿@using static Theater.Data.Models.PerfScene 
+@using static Theater.Data.Models.Theatre
+@using static Theater.Data.Models.Scene
+
+@model Theater.Data.Models.Schedule
+
+
+<div class="container">
+    <div class="row align-items-start mt-2">
+        <div class="col">
+            <img " img-thumbnail" width="540" height="360" src="@Model.Performance.img" alt="@Model.Performance.performanceName" />
+        </div>
+        
+        <div class="col">
+            <p><h1>@Model.Performance.performanceName</h1></p>
+            <p>Спектакль состоится: @Model.performanceTime</p>
+            <p>Длительность спектакля: @Model.Performance.duration минут</p>
+            <div class="container"><p><a class="btn btn-warning" href="/PerfDetails/Index/@Model.id/">О спектакле</a> </p></div>
+            
+        </div>
+        <div class="col">
+            <p><h1>@Model.Performance.perfScene.theatre.theatreName</h1></p>
+            <p>@Model.Performance.perfScene.scene.sceneName</p>
+            <p>@Model.Performance.genre.genreName</p>
+            <p><a class="btn btn-warning" href="/Seats/addOrder/@Model.id">Купить билеты</a> </p>
+        </div>
+    </div>
+</div>
+

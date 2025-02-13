@@ -1,0 +1,60 @@
+﻿@using Microsoft.AspNetCore.Identity;
+@using Theater.Data;
+@using static Theater.Data.AppDBContent
+@model ShowOrdersViewModel
+
+
+
+<link href="~/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+<link href="~/css/Style.css" rel="stylesheet" type="text/css" />
+
+@{
+	Layout = "_Layout";
+}
+
+
+@{
+		<div>
+			<p>Заказы:</p>
+			@{
+				if (Model.Orders != null)
+				{
+					foreach (var el in Model.Orders)
+					{
+						<div class="alert alert-warning">
+							<p>@el.name @el.surname; Дата и время заказа: @el.orderTime.ToString(); Стоимость: @el.price.ToString("c")<a href="/EditOrder/EditOrder/@el.id" class="btn btn-danger">Изменить</a></p>
+							@foreach (var ord in Model.ShopCartItem)
+							{
+								try
+								{
+									ShopCartItem shopCartItem = el.tickets.FirstOrDefault(c => c.id == ord.id);
+									if (shopCartItem != null)
+									{
+										<div class="alert alert-warning">
+											<div class="container">
+												@{
+
+												}
+												<p>@Model.Schedules.FirstOrDefault(c=>c.id==@ord.ticket.scheduleId).Performance.performanceName,@Model.Schedules.FirstOrDefault(c=>c.id==@ord.ticket.scheduleId).performanceTime; @ord.ticket.place.scenePart.Name; @ord.price.ToString("c") Ряд: @ord.ticket.place.row  Место: @ord.ticket.place.col </p>
+											</div>
+										</div>
+									}
+								}
+								catch
+								{
+
+								}
+
+							}
+						</div>
+					}
+				}
+			}
+		</div>
+	
+
+}
+
+
+
+

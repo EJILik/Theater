@@ -1,0 +1,66 @@
+﻿<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Theater</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" />
+    <link href="~/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+    <link href="~/css/Style.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+    <header data-bs-theme="dark">
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-dark bg-dark  border-bottom box-shadow mb-3">
+            <div class="container-fluid">
+                <a class="navbar-brand text-light " href="/Home/Index/">Театральные кассы Перми</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+
+
+                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                    <ul class="navbar-nav flex-grow-1">
+                        <li class="nav-item">
+                            <a class="nav-link text-light " href="/TheaterPoster/FilteredPoster/Театр-Театр">Театр-Театр</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-light" href="/TheaterPoster/FilteredPoster/Театр У Моста">Театр "У Моста"</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-light" href="/TheaterPoster/FilteredPoster/Театр Юного Зрителя">ТЮЗ</a>
+                        </li>
+                        @if(User.IsInRole("Administrator")) 
+                        {
+                            <li class="nav-item">
+                                <a class="nav-link text-light" href="/ShowOrders/ShowOrders/">Заказы</a>
+                            </li>
+                        }
+                        
+
+                    </ul>
+                    <partial name="_LoginPartial" />
+                </div>
+            </div>
+        </nav>
+    </header>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="container footer text-dark text-muted">
+        <div class="container">
+            &copy; 2023 - Театральные кассы города - <a class="text-dark" asp-area="" asp-page="/Privacy">Условия использования</a>
+        </div>
+    </footer>
+    
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

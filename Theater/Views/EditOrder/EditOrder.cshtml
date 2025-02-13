@@ -1,0 +1,66 @@
+﻿@model Order
+
+
+<link href="~/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+<link href="~/css/Style.css" rel="stylesheet" type="text/css" />
+
+@{
+	Layout = "_Layout";
+}
+
+
+<div>
+	<p>Заказы:</p>
+	@{
+		<div class="alert alert-warning">
+			<p>@Model.name @Model.surname; @Model.orderTime.ToString() </p>
+			<form asp-action="EditOrder" method="post" class="form-horisontal">
+				<div class="form-ground">
+					<label asp-for="name"></label>
+					<div class="col-md-5">
+						<input asp-for="name" class="form-control" />
+						<span asp-validation-for="name" class="text-danger"></span>
+					</div>
+				</div>
+				<div class="form-ground">
+					<label asp-for="surname"></label>
+					<div class="col-md-5">
+						<input asp-for="surname" class="form-control" />
+						<span asp-validation-for="surname" class="text-danger"></span>
+					</div>
+				</div>
+				<div class="form-ground">
+					<label asp-for="phone"></label>
+					<div class="col-md-5">
+						<input asp-for="phone" class="form-control" />
+						<span asp-validation-for="phone" class="text-danger"></span>
+					</div>
+				</div>
+
+				<div class="form-ground">
+					<label asp-for="email"></label>
+					<div class="col-md-5">
+						<input asp-for="email" class="form-control" />
+						<span asp-validation-for="email" class="text-danger"></span>
+					</div>
+				</div>
+
+				<div class="form-ground">
+					<label asp-for="discount"></label>
+					<div class="col-md-5">
+						<input asp-for="discount" class="form-control" />
+						<span asp-validation-for="discount" class="text-danger"></span>
+					</div>
+				</div>
+				<div class="form-ground">
+					<label asp-for="code"></label>
+					<div class="col-md-5">
+						<input asp-for="code" class="form-control" />
+						<span asp-validation-for="code" class="text-danger"></span>
+					</div>
+				</div>
+				<input class="btn btn-success" type="submit" value="Сохранить изменения" />
+			</form>
+		</div>
+	}
+</div>

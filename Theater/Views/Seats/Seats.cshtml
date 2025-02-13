@@ -1,0 +1,78 @@
+﻿@using Theater.Data.Models;
+@using Theater.ViewModels;
+@model SeatsViewModel
+
+
+<link href="~/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+<link href="~/css/Style.css" rel="stylesheet" type="text/css" />
+
+<div class="container">
+	@{
+		Layout = "_Layout";
+	}
+
+
+	<p1>@Model.Schedule.Performance.performanceName</p1>
+	<div class="row align-items-start">
+		<div class="col">
+			<ul class="tree">
+				<summary>Сцена: @Model.Schedule.Performance.perfScene.scene.sceneName</summary>
+				@foreach (var el in Model.SceneParts)
+				{
+					int id = Model.Schedule.Performance.perfScene.scene.id;
+					if (el.sceneId == id)
+					{
+						var mdl = new FullTreeViewModel { ScenePart = el, Ticket = Model.Ticket };
+						@Html.Partial("FullTree",mdl)
+					}
+
+				}
+			</ul>
+			@{
+				if (Model.shopCart.listShopItems.Count() != 0)
+				{
+					<p>Добавленные билеты:</p>
+					<div class="container">
+						@foreach (var el in Model.shopCart.listShopItems)
+						{
+							<div class="alert alert-warning">
+								<div class="container">
+									<div class="row align-items-start">
+										<div class="col">
+											<b>@el.ticket.place.scenePart.Name</b> <br />
+											<b></b> @el.ticket.price.ToString("c")<br />
+										</div>
+										<div class="col">
+											<b>Ряд:</b> @el.ticket.place.row<br />
+											<b>Место:</b> @el.ticket.place.col<br />
+										</div>
+										<div class="col">
+											<a href="/Seats/deleteFromCart/@el.id" class="btn btn-danger">Удалить</a>
+										</div>
+									</div>
+								</div>
+							</div>
+						}
+					</div>
+
+					int summ = 0;
+					foreach (var el in Model.shopCart.listShopItems)
+					{
+						summ = summ + el.price;
+					}
+			
+					<p><d>Сумма: @summ.ToString("c")      </d><a asp-controller="Order" asp-action="CheckOut" class="btn btn-danger">Оформить заказ</a></p>
+				
+				}
+			}
+
+			
+		</div>
+		<div class="col">
+			<img " img-thumbnail" width="158" height="270" src="@Model.Schedule.Performance.perfScene.scene.img" alt="@Model.Schedule.Performance.perfScene.scene.img" />
+		</div>
+		<div class="col">
+			
+		</div>
+	</div>
+</div>

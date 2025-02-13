@@ -1,0 +1,440 @@
+C:\Users\Phantom20033\Desktop\Theater\Theater\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Phantom20033\Desktop\Theater\Theater\bin\Debug\net5.0\appsettings.json
+C:\Users\Phantom20033\Desktop\Theater\Theater\bin\Debug\net5.0\Theater.StaticWebAssets.xml
+C:\Users\Phantom20033\Desktop\Theater\Theater\bin\Debug\net5.0\Theater.exe
+C:\Users\Phantom20033\Desktop\Theater\Theater\bin\Debug\net5.0\Theater.deps.json
+C:\Users\Phantom20033\Desktop\Theater\Theater\bin\Debug\net5.0\Theater.runtimeconfig.json
+C:\Users\Phantom20033\Desktop\Theater\Theater\bin\Debug\net5.0\Theater.runtimeconfig.dev.json
+C:\Users\Phantom20033\Desktop\Theater\Theater\bin\Debug\net5.0\Theater.dll
+C:\Users\Phantom20033\Desktop\Theater\Theater\bin\Debug\net5.0\Theater.pdb
+C:\Users\Phantom20033\Desktop\Theater\Theater\bin\Debug\net5.0\Theater.Views.dll
+C:\Users\Phantom20033\Desktop\Theater\Theater\bin\Debug\net5.0\Theater.Views.pdb
+C:\Users\Phantom20033\Desktop\Theater\Theater\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Phantom20033\Desktop\Theater\Theater\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Phantom20033\Desktop\Theater\Theater\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Phantom20033\Desktop\Theater\Theater\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Phantom20033\Desktop\Theater\Theater\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Phantom20033\Desktop\Theater\Theater\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\Phantom20033\Desktop\Theater\Theater\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Phantom20033\Desktop\Theater\Theater\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Phantom20033\Desktop\Theater\Theater\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Phantom20033\Desktop\Theater\Theater\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Phantom20033\Desktop\Theater\Theater\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Phantom20033\Desktop\Theater\Theater\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Phantom20033\Desktop\Theater\Theater\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Phantom20033\Desktop\Theater\Theater\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Phantom20033\Desktop\Theater\Theater\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Phantom20033\Desktop\Theater\Theater\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Phantom20033\Desktop\Theater\Theater\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Phantom20033\Desktop\Theater\Theater\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Phantom20033\Desktop\Theater\Theater\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Phantom20033\Desktop\Theater\Theater\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Phantom20033\Desktop\Theater\Theater\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Phantom20033\Desktop\Theater\Theater\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Phantom20033\Desktop\Theater\Theater\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Phantom20033\Desktop\Theater\Theater\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Phantom20033\Desktop\Theater\Theater\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Phantom20033\Desktop\Theater\Theater\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Phantom20033\Desktop\Theater\Theater\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Phantom20033\Desktop\Theater\Theater\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Phantom20033\Desktop\Theater\Theater\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Phantom20033\Desktop\Theater\Theater\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Phantom20033\Desktop\Theater\Theater\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Phantom20033\Desktop\Theater\Theater\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Phantom20033\Desktop\Theater\Theater\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Phantom20033\Desktop\Theater\Theater\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Phantom20033\Desktop\Theater\Theater\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Phantom20033\Desktop\Theater\Theater\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Phantom20033\Desktop\Theater\Theater\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Phantom20033\Desktop\Theater\Theater\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Phantom20033\Desktop\Theater\Theater\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Phantom20033\Desktop\Theater\Theater\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Phantom20033\Desktop\Theater\Theater\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Phantom20033\Desktop\Theater\Theater\obj\Debug\net5.0\Theater.csproj.AssemblyReference.cache
+C:\Users\Phantom20033\Desktop\Theater\Theater\obj\Debug\net5.0\Theater.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Phantom20033\Desktop\Theater\Theater\obj\Debug\net5.0\Theater.AssemblyInfoInputs.cache
+C:\Users\Phantom20033\Desktop\Theater\Theater\obj\Debug\net5.0\Theater.AssemblyInfo.cs
+C:\Users\Phantom20033\Desktop\Theater\Theater\obj\Debug\net5.0\Theater.csproj.CoreCompileInputs.cache
+C:\Users\Phantom20033\Desktop\Theater\Theater\obj\Debug\net5.0\Theater.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Phantom20033\Desktop\Theater\Theater\obj\Debug\net5.0\Theater.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Phantom20033\Desktop\Theater\Theater\obj\Debug\net5.0\Theater.RazorAssemblyInfo.cache
+C:\Users\Phantom20033\Desktop\Theater\Theater\obj\Debug\net5.0\Theater.RazorAssemblyInfo.cs
+C:\Users\Phantom20033\Desktop\Theater\Theater\obj\Debug\net5.0\scopedcss\bundle\Theater.styles.css
+C:\Users\Phantom20033\Desktop\Theater\Theater\obj\Debug\net5.0\staticwebassets\Theater.StaticWebAssets.Manifest.cache
+C:\Users\Phantom20033\Desktop\Theater\Theater\obj\Debug\net5.0\staticwebassets\Theater.StaticWebAssets.Pack.cache
+C:\Users\Phantom20033\Desktop\Theater\Theater\obj\Debug\net5.0\staticwebassets\msbuild.Theater.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Phantom20033\Desktop\Theater\Theater\obj\Debug\net5.0\staticwebassets\msbuild.build.Theater.props
+C:\Users\Phantom20033\Desktop\Theater\Theater\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.Theater.props
+C:\Users\Phantom20033\Desktop\Theater\Theater\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.Theater.props
+C:\Users\Phantom20033\Desktop\Theater\Theater\obj\Debug\net5.0\staticwebassets\Theater.StaticWebAssets.xml
+C:\Users\Phantom20033\Desktop\Theater\Theater\obj\Debug\net5.0\Theater.TagHelpers.input.cache
+C:\Users\Phantom20033\Desktop\Theater\Theater\obj\Debug\net5.0\Theater.TagHelpers.output.cache
+C:\Users\Phantom20033\Desktop\Theater\Theater\obj\Debug\net5.0\Theater.RazorCoreGenerate.cache
+C:\Users\Phantom20033\Desktop\Theater\Theater\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Phantom20033\Desktop\Theater\Theater\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Phantom20033\Desktop\Theater\Theater\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\Phantom20033\Desktop\Theater\Theater\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Phantom20033\Desktop\Theater\Theater\obj\Debug\net5.0\Razor\Pages\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\Phantom20033\Desktop\Theater\Theater\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Phantom20033\Desktop\Theater\Theater\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Phantom20033\Desktop\Theater\Theater\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Phantom20033\Desktop\Theater\Theater\obj\Debug\net5.0\Theater.RazorTargetAssemblyInfo.cache
+C:\Users\Phantom20033\Desktop\Theater\Theater\obj\Debug\net5.0\Theater.RazorTargetAssemblyInfo.cs
+C:\Users\Phantom20033\Desktop\Theater\Theater\obj\Debug\net5.0\Theater.Views.pdb
+C:\Users\Phantom20033\Desktop\Theater\Theater\obj\Debug\net5.0\Theater.csproj.CopyComplete
+C:\Users\Phantom20033\Desktop\Theater\Theater\obj\Debug\net5.0\Theater.dll
+C:\Users\Phantom20033\Desktop\Theater\Theater\obj\Debug\net5.0\refint\Theater.dll
+C:\Users\Phantom20033\Desktop\Theater\Theater\obj\Debug\net5.0\Theater.pdb
+C:\Users\Phantom20033\Desktop\Theater\Theater\obj\Debug\net5.0\Theater.genruntimeconfig.cache
+C:\Users\Phantom20033\Desktop\Theater\Theater\obj\Debug\net5.0\ref\Theater.dll
+C:\Users\Phantom20033\Desktop\Theater\Theater\obj\Debug\net5.0\Razor\Views\EditOrder\Complete.cshtml.g.cs
+C:\Users\Phantom20033\Desktop\Theater\Theater\obj\Debug\net5.0\Razor\Views\EditOrder\EditOrder.cshtml.g.cs
+C:\Users\Phantom20033\Desktop\Theater\Theater\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Phantom20033\Desktop\Theater\Theater\obj\Debug\net5.0\Razor\Views\Order\CheckOut.cshtml.g.cs
+C:\Users\Phantom20033\Desktop\Theater\Theater\obj\Debug\net5.0\Razor\Views\Order\Complete.cshtml.g.cs
+C:\Users\Phantom20033\Desktop\Theater\Theater\obj\Debug\net5.0\Razor\Views\PerfDetails\Index.cshtml.g.cs
+C:\Users\Phantom20033\Desktop\Theater\Theater\obj\Debug\net5.0\Razor\Views\Seats\Seats.cshtml.g.cs
+C:\Users\Phantom20033\Desktop\Theater\Theater\obj\Debug\net5.0\Razor\Views\Shared\AllActorsList.cshtml.g.cs
+C:\Users\Phantom20033\Desktop\Theater\Theater\obj\Debug\net5.0\Razor\Views\Shared\AllOrderedTickets.cshtml.g.cs
+C:\Users\Phantom20033\Desktop\Theater\Theater\obj\Debug\net5.0\Razor\Views\Shared\AllSchedule.cshtml.g.cs
+C:\Users\Phantom20033\Desktop\Theater\Theater\obj\Debug\net5.0\Razor\Views\Shared\FullTree.cshtml.g.cs
+C:\Users\Phantom20033\Desktop\Theater\Theater\obj\Debug\net5.0\Razor\Views\Shared\Hall.cshtml.g.cs
+C:\Users\Phantom20033\Desktop\Theater\Theater\obj\Debug\net5.0\Razor\Views\Shared\TicketTree.cshtml.g.cs
+C:\Users\Phantom20033\Desktop\Theater\Theater\obj\Debug\net5.0\Razor\Views\ShowOrders\ShowOrders.cshtml.g.cs
+C:\Users\Phantom20033\Desktop\Theater\Theater\obj\Debug\net5.0\Razor\Views\TheaterPoster\FilteredPoster.cshtml.g.cs
+C:\Users\Phantom20033\Desktop\Theater\Theater\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Phantom20033\Desktop\Theater\Theater\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\Phantom20033\Desktop\Theater\Theater\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Phantom20033\Desktop\Theater\Theater\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Phantom20033\Desktop\Theater\Theater\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\Phantom20033\Desktop\Theater\Theater\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Phantom20033\Desktop\Theater\Theater\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Phantom20033\Desktop\Theater\Theater\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Phantom20033\Desktop\Theater\Theater\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Phantom20033\Desktop\Theater\Theater\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Phantom20033\Desktop\Theater\Theater\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Phantom20033\Desktop\Theater\Theater\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Phantom20033\Desktop\Theater\Theater\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Phantom20033\Desktop\Theater\Theater\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Phantom20033\Desktop\Theater\Theater\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Phantom20033\Desktop\Theater\Theater\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Phantom20033\Desktop\Theater\Theater\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Phantom20033\Desktop\Theater\Theater\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\Phantom20033\Desktop\Theater\Theater\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\Phantom20033\Desktop\Theater\Theater\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\Phantom20033\Desktop\Theater\Theater\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\Phantom20033\Desktop\Theater\Theater\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\Phantom20033\Desktop\Theater\Theater\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Phantom20033\Desktop\Theater\Theater\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Phantom20033\Desktop\Theater\Theater\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Phantom20033\Desktop\Theater\Theater\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Phantom20033\Desktop\Theater\Theater\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Phantom20033\Desktop\Theater\Theater\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Phantom20033\Desktop\Theater\Theater\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Phantom20033\Desktop\Theater\Theater\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Phantom20033\Desktop\Theater\Theater\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Phantom20033\Desktop\Theater\Theater\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Phantom20033\Desktop\Theater\Theater\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Phantom20033\Desktop\Theater\Theater\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Phantom20033\Desktop\Theater\Theater\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Phantom20033\Desktop\Theater\Theater\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Phantom20033\Desktop\Theater\Theater\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Phantom20033\Desktop\Theater\Theater\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Phantom20033\Desktop\Theater\Theater\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Phantom20033\Desktop\Theater\Theater\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Phantom20033\Desktop\Theater\Theater\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Phantom20033\Desktop\Theater\Theater\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Phantom20033\Desktop\Theater\Theater\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Phantom20033\Desktop\Theater\Theater\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Phantom20033\Desktop\Theater\Theater\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Phantom20033\Desktop\Theater\Theater\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Phantom20033\Desktop\Theater\Theater\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Phantom20033\Desktop\Theater\Theater\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Phantom20033\Desktop\Theater\Theater\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Phantom20033\Desktop\Theater\Theater\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Phantom20033\Desktop\Theater\Theater\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Phantom20033\Desktop\Theater\Theater\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Phantom20033\Desktop\Theater\Theater\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Phantom20033\Desktop\Theater\Theater\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Phantom20033\Desktop\Theater\Theater\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Phantom20033\Desktop\Theater\Theater\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Phantom20033\Desktop\Theater\Theater\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Phantom20033\Desktop\Theater\Theater\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Phantom20033\Desktop\Theater\Theater\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Phantom20033\Desktop\Theater\Theater\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Phantom20033\Desktop\Theater\Theater\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Phantom20033\Desktop\Theater\Theater\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Phantom20033\Desktop\Theater\Theater\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Phantom20033\Desktop\Theater\Theater\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Phantom20033\Desktop\Theater\Theater\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Phantom20033\Desktop\Theater\Theater\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Phantom20033\Desktop\Theater\Theater\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Phantom20033\Desktop\Theater\Theater\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Phantom20033\Desktop\Theater\Theater\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Phantom20033\Desktop\Theater\Theater\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Phantom20033\Desktop\Theater\Theater\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Phantom20033\Desktop\Theater\Theater\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Phantom20033\Desktop\Theater\Theater\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Phantom20033\Desktop\Theater\Theater\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Phantom20033\Desktop\Theater\Theater\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Phantom20033\Desktop\Theater\Theater\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Phantom20033\Desktop\Theater\Theater\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Users\Phantom20033\Desktop\Theater\Theater\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Users\Phantom20033\Desktop\Theater\Theater\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Phantom20033\Desktop\Theater\Theater\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Phantom20033\Desktop\Theater\Theater\obj\Debug\net5.0\Razor\Pages\FilteredPoster.cshtml.g.cs
+C:\Users\Phantom20033\Desktop\Theater\Theater\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Phantom20033\Desktop\Theater\Theater\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\Users\Phantom20033\Desktop\Theater\Theater\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Lockout.cshtml.g.cs
+C:\Users\Phantom20033\Desktop\Theater\Theater\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.cshtml.g.cs
+C:\Users\Phantom20033\Desktop\Theater\Theater\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\Email.cshtml.g.cs
+C:\Users\Phantom20033\Desktop\Theater\Theater\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.cshtml.g.cs
+C:\Users\Phantom20033\Desktop\Theater\Theater\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.cshtml.g.cs
+C:\Users\Phantom20033\Desktop\Theater\Theater\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.cshtml.g.cs
+C:\Users\Phantom20033\Desktop\Theater\Theater\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+C:\Users\Phantom20033\Desktop\Theater\Theater\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+C:\Users\Phantom20033\Desktop\Theater\Theater\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Users\Phantom20033\Desktop\Theater\Theater\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.g.cs
+C:\Users\Phantom20033\Desktop\Theater\Theater\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_Layout.cshtml.g.cs
+C:\Users\Phantom20033\Desktop\Theater\Theater\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+C:\Users\Phantom20033\Desktop\Theater\Theater\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\AccessDenied.cshtml.g.cs
+C:\Users\Phantom20033\Desktop\Theater\Theater\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+C:\Users\Phantom20033\Desktop\Theater\Theater\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ConfirmEmailChange.cshtml.g.cs
+C:\Users\Phantom20033\Desktop\Theater\Theater\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ExternalLogin.cshtml.g.cs
+C:\Users\Phantom20033\Desktop\Theater\Theater\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+C:\Users\Phantom20033\Desktop\Theater\Theater\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+C:\Users\Phantom20033\Desktop\Theater\Theater\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\LoginWith2fa.cshtml.g.cs
+C:\Users\Phantom20033\Desktop\Theater\Theater\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.cshtml.g.cs
+C:\Users\Phantom20033\Desktop\Theater\Theater\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+C:\Users\Phantom20033\Desktop\Theater\Theater\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.cshtml.g.cs
+C:\Users\Phantom20033\Desktop\Theater\Theater\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.cshtml.g.cs
+C:\Users\Phantom20033\Desktop\Theater\Theater\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.cshtml.g.cs
+C:\Users\Phantom20033\Desktop\Theater\Theater\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.cshtml.g.cs
+C:\Users\Phantom20033\Desktop\Theater\Theater\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+C:\Users\Phantom20033\Desktop\Theater\Theater\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.cshtml.g.cs
+C:\Users\Phantom20033\Desktop\Theater\Theater\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ShowRecoveryCodes.cshtml.g.cs
+C:\Users\Phantom20033\Desktop\Theater\Theater\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.cshtml.g.cs
+C:\Users\Phantom20033\Desktop\Theater\Theater\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\RegisterConfirmation.cshtml.g.cs
+C:\Users\Phantom20033\Desktop\Theater\Theater\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResendEmailConfirmation.cshtml.g.cs
+C:\Users\Phantom20033\Desktop\Theater\Theater\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.g.cs
+C:\Users\Phantom20033\Desktop\Theater\Theater\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_StatusMessage.cshtml.g.cs
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\bin\Debug\net5.0\appsettings.json
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\bin\Debug\net5.0\Theater.StaticWebAssets.xml
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\bin\Debug\net5.0\Theater.exe
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\bin\Debug\net5.0\Theater.deps.json
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\bin\Debug\net5.0\Theater.runtimeconfig.json
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\bin\Debug\net5.0\Theater.runtimeconfig.dev.json
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\bin\Debug\net5.0\Theater.dll
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\bin\Debug\net5.0\Theater.pdb
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\bin\Debug\net5.0\Theater.Views.dll
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\bin\Debug\net5.0\Theater.Views.pdb
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\obj\Debug\net5.0\Theater.csproj.AssemblyReference.cache
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\obj\Debug\net5.0\Theater.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\obj\Debug\net5.0\Theater.AssemblyInfoInputs.cache
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\obj\Debug\net5.0\Theater.AssemblyInfo.cs
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\obj\Debug\net5.0\Theater.csproj.CoreCompileInputs.cache
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\obj\Debug\net5.0\Theater.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\obj\Debug\net5.0\Theater.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\obj\Debug\net5.0\Theater.RazorAssemblyInfo.cache
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\obj\Debug\net5.0\Theater.RazorAssemblyInfo.cs
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\obj\Debug\net5.0\Theater.TagHelpers.input.cache
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\obj\Debug\net5.0\Theater.TagHelpers.output.cache
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\obj\Debug\net5.0\Theater.RazorCoreGenerate.cache
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\AccessDenied.cshtml.g.cs
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ConfirmEmailChange.cshtml.g.cs
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ExternalLogin.cshtml.g.cs
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Lockout.cshtml.g.cs
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\LoginWith2fa.cshtml.g.cs
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.cshtml.g.cs
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.cshtml.g.cs
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.cshtml.g.cs
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.cshtml.g.cs
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\Email.cshtml.g.cs
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.cshtml.g.cs
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.cshtml.g.cs
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.cshtml.g.cs
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.g.cs
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.cshtml.g.cs
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.cshtml.g.cs
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ShowRecoveryCodes.cshtml.g.cs
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.cshtml.g.cs
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_Layout.cshtml.g.cs
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.cshtml.g.cs
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\RegisterConfirmation.cshtml.g.cs
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResendEmailConfirmation.cshtml.g.cs
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.g.cs
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_StatusMessage.cshtml.g.cs
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\obj\Debug\net5.0\Razor\Pages\FilteredPoster.cshtml.g.cs
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\obj\Debug\net5.0\Razor\Pages\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\obj\Debug\net5.0\Razor\Views\EditOrder\Complete.cshtml.g.cs
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\obj\Debug\net5.0\Razor\Views\EditOrder\EditOrder.cshtml.g.cs
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\obj\Debug\net5.0\Razor\Views\Order\CheckOut.cshtml.g.cs
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\obj\Debug\net5.0\Razor\Views\Order\Complete.cshtml.g.cs
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\obj\Debug\net5.0\Razor\Views\PerfDetails\Index.cshtml.g.cs
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\obj\Debug\net5.0\Razor\Views\Seats\Seats.cshtml.g.cs
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\obj\Debug\net5.0\Razor\Views\Shared\AllActorsList.cshtml.g.cs
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\obj\Debug\net5.0\Razor\Views\Shared\AllOrderedTickets.cshtml.g.cs
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\obj\Debug\net5.0\Razor\Views\Shared\AllSchedule.cshtml.g.cs
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\obj\Debug\net5.0\Razor\Views\Shared\FullTree.cshtml.g.cs
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\obj\Debug\net5.0\Razor\Views\Shared\Hall.cshtml.g.cs
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\obj\Debug\net5.0\Razor\Views\Shared\TicketTree.cshtml.g.cs
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\obj\Debug\net5.0\Razor\Views\ShowOrders\ShowOrders.cshtml.g.cs
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\obj\Debug\net5.0\Razor\Views\TheaterPoster\FilteredPoster.cshtml.g.cs
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\obj\Debug\net5.0\Theater.RazorTargetAssemblyInfo.cache
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\obj\Debug\net5.0\Theater.RazorTargetAssemblyInfo.cs
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\obj\Debug\net5.0\Theater.Views.pdb
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\obj\Debug\net5.0\scopedcss\bundle\Theater.styles.css
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\obj\Debug\net5.0\staticwebassets\Theater.StaticWebAssets.Manifest.cache
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\obj\Debug\net5.0\staticwebassets\Theater.StaticWebAssets.Pack.cache
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\obj\Debug\net5.0\staticwebassets\msbuild.Theater.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\obj\Debug\net5.0\staticwebassets\msbuild.build.Theater.props
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.Theater.props
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.Theater.props
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\obj\Debug\net5.0\staticwebassets\Theater.StaticWebAssets.xml
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\obj\Debug\net5.0\Theater.csproj.Up2Date
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\obj\Debug\net5.0\Theater.dll
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\obj\Debug\net5.0\refint\Theater.dll
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\obj\Debug\net5.0\Theater.pdb
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\obj\Debug\net5.0\Theater.genruntimeconfig.cache
+C:\Users\Егор\Desktop\ВСЕ ДОКУМЕНТЫ\Theater\Theater\obj\Debug\net5.0\ref\Theater.dll

@@ -1,0 +1,11 @@
+﻿@using static Theater.Data.Models.PerfScene
+@using static Theater.Data.Models.Theatre
+@using static Theater.Data.Models.Scene
+
+@model Theater.Data.Models.Ticket
+
+
+<div class="col-lg-1">
+
+    <button class="button" href="/Seats/addToOrderList/@Model.id"> @Model.place.col @Model.place.row Удалить</button>
+</div>

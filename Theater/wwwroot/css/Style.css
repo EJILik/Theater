@@ -1,0 +1,7 @@
+﻿body {
+    background: #808080
+}
+.tree {
+    --spacing: 1.5rem;
+    --radius: 10px;
+}

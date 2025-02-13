@@ -1,0 +1,19 @@
+﻿@using Theater.Data.Models;
+@using Theater.ViewModels;
+@model FullTreeViewModel
+<li>
+	<details>
+		<summary>@Model.ScenePart.Name</summary>
+		<ul>
+			@{
+				foreach (Ticket obj in Model.Ticket)
+				{
+					if (obj.place.scenePart.Id == Model.ScenePart.Id && obj.status.id == 1)
+					{
+						@Html.Partial("TicketTree",obj)
+					}
+				}
+			}
+		</ul>
+	</details>
+</li>

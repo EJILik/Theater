@@ -1,0 +1,10 @@
+﻿@using static Theater.Data.Models.PerfScene
+@using static Theater.Data.Models.Theatre
+@using static Theater.Data.Models.Scene
+
+@model Theater.Data.Models.Ticket
+
+
+<div class="p-1">
+    <a href="/Seats/addToOrderList/@Model.id" type="button" class="btn btn-primary btn-sm">Ряд: @Model.place.row, Место: @Model.place.col</a>
+</div>

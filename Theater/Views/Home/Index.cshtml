@@ -1,0 +1,28 @@
+﻿@using Microsoft.AspNetCore.Identity;
+@using Theater.Areas.Identity;
+@inject SignInManager<ApplicationIdentityUser> SignInManager
+@inject UserManager<ApplicationIdentityUser> UserManager
+
+@model HomeViewModel
+<!DOCTYPE html>
+
+@{
+    Layout = "_Layout";
+}
+
+
+<div class="container">
+
+	<div class="mt-3"><h1>Афиша</h1></div>
+
+	<div class=" row mt-3 mb-2">
+		@{
+			foreach (Schedule obj in Model.Schedules)
+			{
+				@Html.Partial("AllSchedule",obj)
+			}
+		}
+			
+	</div>
+
+</div>

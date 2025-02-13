@@ -1,0 +1,44 @@
+﻿@using Theater.Data.Models;
+@using Theater.ViewModels
+@model PerfDetailsViewModel
+
+<link href="~/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+<link href="~/css/Style.css" rel="stylesheet" type="text/css" />
+
+
+<div class="container">
+	@{
+		Layout = "_Layout";
+	}
+	
+	<div class="row align-items-start mt-5">
+		<div class="col">
+			<img " img-thumbnail" width="675" height="450" src="@Model.Schedule.Performance.img" alt="@Model.Schedule.Performance.performanceName" />
+		</div>
+		<div class="col">
+			<h1>@Model.Schedule.Performance.performanceName</h1>
+			<p>Спектакль состоится: @Model.Schedule.performanceTime</p>
+			<p>Длительность спектакля: @Model.Schedule.Performance.duration минут</p>
+			<p>@Model.Schedule.Performance.perfScene.theatre.theatreName,@Model.Schedule.Performance.perfScene.scene.sceneName</p>
+			<p>Жанр: @Model.Schedule.Performance.genre.genreName</p>
+			<p>Антракт: @Model.Schedule.Performance.intermission</p>
+			<p>Режиссёр-постановщик: @Model.Schedule.Performance.director.directorName</p>
+			<p><a class="btn btn-warning" href="/Seats/Seats/">Купить билеты</a> </p>
+		</div>
+	</div>
+
+	<div class=" row mt-5 mb-2">
+		<p>@Model.Schedule.Performance.description</p>
+		<p><h2>Действующие лица: </h2></p>
+		@{
+			foreach (ActorsList obj in Model.Actors)
+			{
+				if (obj.perfListId == Model.Schedule.Performance.id)
+				{
+					@Html.Partial("AllActorsList",obj)
+				}
+			}
+		}
+	</div>
+</div>
+
